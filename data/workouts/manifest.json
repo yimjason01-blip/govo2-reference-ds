@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "fixtureSetId": "govo2-synthetic-workouts-v1",
+    "created": "2026-05-17",
+    "schema": "govo2.synthetic.workout-set.v1",
+    "purpose": "Static synthetic workout fixtures for HTML/React prototype rendering and visual ideation. Files live under public/data/workouts so Vite can fetch them at /data/workouts/..."
+  },
+  "files": [
+    {
+      "type": "ramp",
+      "id": "SYN-RAMP-2026-05-17-001",
+      "title": "Ramp test",
+      "path": "/data/workouts/ramp.json",
+      "durationSec": 920,
+      "samplesCount": 920
+    },
+    {
+      "type": "ramp",
+      "id": "SYN-RAMP-2026-05-17-002",
+      "title": "Ramp test retest",
+      "path": "/data/workouts/ramp-002.json",
+      "durationSec": 860,
+      "samplesCount": 860
+    },
+    {
+      "type": "ramp",
+      "id": "SYN-RAMP-2026-05-17-003",
+      "title": "Ramp test breakthrough",
+      "path": "/data/workouts/ramp-003.json",
+      "durationSec": 980,
+      "samplesCount": 980
+    },
+    {
+      "type": "intervals",
+      "id": "SYN-INT-2026-05-17-001",
+      "title": "4x4 VO2max intervals",
+      "path": "/data/workouts/intervals.json",
+      "durationSec": 1980,
+      "samplesCount": 1980
+    },
+    {
+      "type": "intervals",
+      "id": "SYN-INT-2026-05-17-002",
+      "title": "4x4 threshold support intervals",
+      "path": "/data/workouts/intervals-002.json",
+      "durationSec": 1980,
+      "samplesCount": 1980
+    },
+    {
+      "type": "intervals",
+      "id": "SYN-INT-2026-05-17-003",
+      "title": "4x4 high aerobic intervals",
+      "path": "/data/workouts/intervals-003.json",
+      "durationSec": 1980,
+      "samplesCount": 1980
+    },
+    {
+      "type": "zone2",
+      "id": "SYN-Z2-2026-05-17-001",
+      "title": "Zone 2 endurance ride",
+      "path": "/data/workouts/zone2.json",
+      "durationSec": 2700,
+      "samplesCount": 2700
+    },
+    {
+      "type": "zone2",
+      "id": "SYN-Z2-2026-05-17-002",
+      "title": "Zone 2 aerobic base ride",
+      "path": "/data/workouts/zone2-002.json",
+      "durationSec": 2400,
+      "samplesCount": 2400
+    },
+    {
+      "type": "zone2",
+      "id": "SYN-Z2-2026-05-17-003",
+      "title": "Zone 2 steady endurance ride",
+      "path": "/data/workouts/zone2-003.json",
+      "durationSec": 3300,
+      "samplesCount": 3300
+    }
+  ]
+}

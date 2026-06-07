@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 140 140" role="img" aria-label="GO VO2">
+  <rect width="140" height="140" rx="30" fill="#08090A"/>
+  <text x="20" y="58" fill="#F6F4EE" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="900" letter-spacing="-1.5">GO</text>
+  <text x="20" y="96" fill="#FF6A1F" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="400" letter-spacing="-0.8">VO2</text>
+</svg>
